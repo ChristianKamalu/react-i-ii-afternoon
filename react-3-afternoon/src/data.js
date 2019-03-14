@@ -1,15 +1,15 @@
 const data = [
   {
     id: 1,
-    name: { first: "Waylin", last: "Lumsdon" },
-    city: "Likiep",
+    name: { first: "Caleb", last: "Lovell" },
+    city: "Down South",
     country: "Marshall Islands",
-    employer: "Twinder",
-    title: "Physical Therapy Assistant",
+    employer: "Your Mom",
+    title: "Foot Rub Therapist",
     favoriteMovies: [
-      "That Night in Varennes (Nuit de Varennes, La)",
-      "Spy(ies) (Espion(s))",
-      "Klip (Clip)"
+      "Dora the Explorer",
+      "Avatar: The Last Airbender (original motion picture)",
+      "The Bachelor"
     ]
   },
   {
